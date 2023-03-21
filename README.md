@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project organizes your preliminary patent search by using class searching. After performing your initial keyword searches for patents in https://patents.google.com, add 20-30 patents that are similar to yours. Then, perform a class based search by checking the top several subclasses for similar patents. Continue to add similar patents until the top 5-10 minor classes are fully searched. 
+
+Some patent search tips:
+1. When comparing your project with the patent, compare the images and the description
+2. The class search will yield the most results to give you a good understanding of your project's patent space
+3. Don't get distracted by trying to find an exact match to your project. The purpose of a preliminary patent search is to understand your project's patent space (similar patents).
+4. You don't start inventing until the preliminary patent search is complete.
 
 ## Available Scripts
 
